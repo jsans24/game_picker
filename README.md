@@ -26,7 +26,7 @@ After picking a game with randomizer users will be able to invite other friends 
 ![Profile Page](./src/images/ProfilePage.png)
 
 ## ERD
-![ERD](./game_picker/src/images/ERD.png)
+![ERD](./src/images/ERD.png)
 
 ## Technologies Used
 React, JavaScript, CSS, JSX,  MongDB, Express, Auth0
