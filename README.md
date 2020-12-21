@@ -21,9 +21,9 @@ Users will be able to add other users as friends
 After picking a game with randomizer users will be able to invite other friends who own the game to play with them.
 
 ## WireFrames
-![Game Show Page](./game_picker/src/images/gameshowpage.png)
-![Game Index Page](./game_picker/src/images/gamessearchpage.png)
-![Profile Page](./game_picker/src/images/ProfilePage.png)
+![Game Show Page](./src/images/gameshowpage.png)
+![Game Index Page](./src/images/gamessearchpage.png)
+![Profile Page](./src/images/ProfilePage.png)
 
 ## ERD
 ![ERD](./game_picker/src/images/ERD.png)
