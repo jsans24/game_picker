@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = `https://app-game-picker.herokuapp.com/usersgames/`
+const url = `https://game-picker-db.herokuapp.com/usersgames/`
 
 class UsersGameModel {
   static all = () => {
