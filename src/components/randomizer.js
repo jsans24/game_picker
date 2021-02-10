@@ -7,7 +7,7 @@ const Randomizer = (props) => {
     const randomNum =  Math.floor(Math.random() * (props.usersCollection.length))
     const randomGame = props.usersCollection[randomNum]
     console.log(randomGame);
-    return window.location.replace(`http://localhost:3000/games/${randomGame.game._id}`)
+    return window.location.replace(`https://app-game-picker.herokuapp.com/games/${randomGame.game._id}`)
   }
 
   return (
