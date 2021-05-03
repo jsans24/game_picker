@@ -4,6 +4,7 @@ import GameIndex from "../Views/gameIndex";
 import GameShow from "../Views/game"
 import Home from "../Views/home";
 import Profile from "../Views/profile";
+import gameCard from "./gameCard";
 
 const Router = () => {
   return(
